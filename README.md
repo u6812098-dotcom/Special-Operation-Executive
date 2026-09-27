@@ -26,6 +26,6 @@ The game features dynamic health and ammo UI management, visual and audio hit fe
 1. Clone this repository:
    ```bash
    git clone [https://github.com/u6812098-dotcom/Special-Operation-Executive.git](https://github.com/u6812098-dotcom/Special-Operation-Executive.git)
-
+```
 ## License
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
