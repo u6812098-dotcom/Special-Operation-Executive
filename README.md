@@ -17,11 +17,16 @@ The game features dynamic health and ammo UI management, visual and audio hit fe
 ![Gameplay Screenshot](Screenshots/INGAME.png)
 ![Gameplay Screenshot](Screenshots/GAMEOVER.png)
 
+##  Credits & Attributions
+* **Background Music:** "A Crimewave is Coming" by Cryptrik ([Link to Source](https://youtu.be/HtF05U4lBfw?si=Ka7weNIM7jQXe3KY)) 
+* **Background Music:** "End of Line" by Daft Punk ([Link to Source](https://youtu.be/NOMa56y_Was?si=UdEFK7FEc8SkNP3_)) 
+* **Sound Effects:** Created by Various Sound Artist / sourced from ([Link to Source](https://pixabay.com/))
+
 ## Project Team
 * 68122098-Thu Ta Aung
 * 6736501-Sai Thiha Aung
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 1. Clone this repository:
    ```bash
    git clone [https://github.com/u6812098-dotcom/Special-Operation-Executive.git](https://github.com/u6812098-dotcom/Special-Operation-Executive.git)
