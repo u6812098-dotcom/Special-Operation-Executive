@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\simon\\Desktop\\Unity Stuff\\Create with Code\\Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A513BC8D-6A7D-D6C5-EEBE-D27CF600D276}|Assembly-CSharp.csproj|C:\\Users\\simon\\Desktop\\Unity Stuff\\Create with Code\\Test\\assets\\scripts\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A513BC8D-6A7D-D6C5-EEBE-D27CF600D276}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A513BC8D-6A7D-D6C5-EEBE-D27CF600D276}|Assembly-CSharp.csproj|c:\\users\\simon\\desktop\\unity stuff\\create with code\\test\\assets\\scripts\\ammoui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A513BC8D-6A7D-D6C5-EEBE-D27CF600D276}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ammoui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A513BC8D-6A7D-D6C5-EEBE-D27CF600D276}|Assembly-CSharp.csproj|c:\\users\\simon\\desktop\\unity stuff\\create with code\\test\\assets\\scripts\\healthui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A513BC8D-6A7D-D6C5-EEBE-D27CF600D276}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\healthui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A513BC8D-6A7D-D6C5-EEBE-D27CF600D276}|Assembly-CSharp.csproj|C:\\Users\\simon\\Desktop\\Unity Stuff\\Create with Code\\Test\\assets\\scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A513BC8D-6A7D-D6C5-EEBE-D27CF600D276}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A513BC8D-6A7D-D6C5-EEBE-D27CF600D276}|Assembly-CSharp.csproj|C:\\Users\\simon\\Desktop\\Unity Stuff\\Create with Code\\Test\\assets\\scripts\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A513BC8D-6A7D-D6C5-EEBE-D27CF600D276}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A513BC8D-6A7D-D6C5-EEBE-D27CF600D276}|Assembly-CSharp.csproj|C:\\Users\\simon\\Desktop\\Unity Stuff\\Create with Code\\Test\\assets\\scripts\\gameovermenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A513BC8D-6A7D-D6C5-EEBE-D27CF600D276}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameovermenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A513BC8D-6A7D-D6C5-EEBE-D27CF600D276}|Assembly-CSharp.csproj|C:\\Users\\simon\\Desktop\\Unity Stuff\\Create with Code\\Test\\assets\\scripts\\scoredisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A513BC8D-6A7D-D6C5-EEBE-D27CF600D276}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scoredisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A513BC8D-6A7D-D6C5-EEBE-D27CF600D276}|Assembly-CSharp.csproj|C:\\Users\\simon\\Desktop\\Unity Stuff\\Create with Code\\Test\\assets\\scripts\\playercombat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A513BC8D-6A7D-D6C5-EEBE-D27CF600D276}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercombat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A513BC8D-6A7D-D6C5-EEBE-D27CF600D276}|Assembly-CSharp.csproj|C:\\Users\\simon\\Desktop\\Unity Stuff\\Create with Code\\Test\\assets\\scripts\\weapons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A513BC8D-6A7D-D6C5-EEBE-D27CF600D276}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A513BC8D-6A7D-D6C5-EEBE-D27CF600D276}|Assembly-CSharp.csproj|C:\\Users\\simon\\Desktop\\Unity Stuff\\Create with Code\\Test\\assets\\scripts\\mainmenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A513BC8D-6A7D-D6C5-EEBE-D27CF600D276}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ammoUI.cs",
+              "DocumentMoniker": "C:\\Users\\simon\\Desktop\\Unity Stuff\\Create with Code\\Test\\Assets\\Scripts\\ammoUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ammoUI.cs",
+              "ToolTip": "C:\\Users\\simon\\Desktop\\Unity Stuff\\Create with Code\\Test\\Assets\\Scripts\\ammoUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ammoUI.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T09:01:03.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HealthUI.cs",
+              "DocumentMoniker": "C:\\Users\\simon\\Desktop\\Unity Stuff\\Create with Code\\Test\\Assets\\Scripts\\HealthUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HealthUI.cs",
+              "ToolTip": "C:\\Users\\simon\\Desktop\\Unity Stuff\\Create with Code\\Test\\Assets\\Scripts\\HealthUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HealthUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T07:15:37.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerCombat.cs",
+              "DocumentMoniker": "C:\\Users\\simon\\Desktop\\Unity Stuff\\Create with Code\\Test\\Assets\\Scripts\\PlayerCombat.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerCombat.cs",
+              "ToolTip": "C:\\Users\\simon\\Desktop\\Unity Stuff\\Create with Code\\Test\\Assets\\Scripts\\PlayerCombat.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerCombat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T22:00:16.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ScoreDisplay.cs",
+              "DocumentMoniker": "C:\\Users\\simon\\Desktop\\Unity Stuff\\Create with Code\\Test\\Assets\\Scripts\\ScoreDisplay.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScoreDisplay.cs",
+              "ToolTip": "C:\\Users\\simon\\Desktop\\Unity Stuff\\Create with Code\\Test\\Assets\\Scripts\\ScoreDisplay.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScoreDisplay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T21:36:04.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ScoreManager.cs",
+              "DocumentMoniker": "C:\\Users\\simon\\Desktop\\Unity Stuff\\Create with Code\\Test\\Assets\\Scripts\\ScoreManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScoreManager.cs",
+              "ToolTip": "C:\\Users\\simon\\Desktop\\Unity Stuff\\Create with Code\\Test\\Assets\\Scripts\\ScoreManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScoreManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T21:33:41.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameOverMenuManager.cs",
+              "DocumentMoniker": "C:\\Users\\simon\\Desktop\\Unity Stuff\\Create with Code\\Test\\Assets\\Scripts\\GameOverMenuManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameOverMenuManager.cs",
+              "ToolTip": "C:\\Users\\simon\\Desktop\\Unity Stuff\\Create with Code\\Test\\Assets\\Scripts\\GameOverMenuManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameOverMenuManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T20:41:24.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerHealth.cs",
+              "DocumentMoniker": "C:\\Users\\simon\\Desktop\\Unity Stuff\\Create with Code\\Test\\Assets\\Scripts\\PlayerHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerHealth.cs",
+              "ToolTip": "C:\\Users\\simon\\Desktop\\Unity Stuff\\Create with Code\\Test\\Assets\\Scripts\\PlayerHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerHealth.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA1wAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T20:29:26.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainMenuManager.cs",
+              "DocumentMoniker": "C:\\Users\\simon\\Desktop\\Unity Stuff\\Create with Code\\Test\\Assets\\Scripts\\MainMenuManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenuManager.cs",
+              "ToolTip": "C:\\Users\\simon\\Desktop\\Unity Stuff\\Create with Code\\Test\\Assets\\Scripts\\MainMenuManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenuManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T20:22:31.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Weapons.cs",
+              "DocumentMoniker": "C:\\Users\\simon\\Desktop\\Unity Stuff\\Create with Code\\Test\\Assets\\Scripts\\Weapons.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons.cs",
+              "ToolTip": "C:\\Users\\simon\\Desktop\\Unity Stuff\\Create with Code\\Test\\Assets\\Scripts\\Weapons.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapons.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAiwEMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T19:45:29.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnemyAI.cs",
+              "DocumentMoniker": "C:\\Users\\simon\\Desktop\\Unity Stuff\\Create with Code\\Test\\Assets\\Scripts\\EnemyAI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyAI.cs",
+              "ToolTip": "C:\\Users\\simon\\Desktop\\Unity Stuff\\Create with Code\\Test\\Assets\\Scripts\\EnemyAI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyAI.cs",
+              "ViewState": "AgIAABUBAAAAAAAAAAAAACkBAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T19:29:39.217Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

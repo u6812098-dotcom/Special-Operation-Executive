@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3880632547878896722
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3880632547878896720}
+  - component: {fileID: 3880632547878896721}
+  m_Layer: 0
+  m_Name: EnemySpawner
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3880632547878896720
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3880632547878896722}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3880632547878896721
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3880632547878896722}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 267ff945d9636124bb2a7e3145856971, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  enemyPrefabs:
+  - {fileID: 571645747686706268, guid: a4d78689622417c4cbbe5aa7c9e9e7f1, type: 3}
+  - {fileID: 1234744718854061809, guid: 45ce273d0803669498a588f27e9118dd, type: 3}
+  - {fileID: 1536024075687513056, guid: 6ff3f8c7d1518ab488e70eda09be62f5, type: 3}
+  player: {fileID: 0}
+  spawnAreaMin: {x: 84, y: 81}
+  spawnAreaMax: {x: -115, y: -75}
+  minDistanceFromPlayer: 6
+  maxDistanceFromPlayer: 14
+  obstacleMask:
+    serializedVersion: 2
+    m_Bits: 256
+  groundMask:
+    serializedVersion: 2
+    m_Bits: 1024
+  checkRadius: 0.4
+  maxPlacementAttempts: 20
+  tiers:
+  - startTimeSeconds: 0
+    enemiesPerBurst: 1
+    interval: 2
+  - startTimeSeconds: 60
+    enemiesPerBurst: 2
+    interval: 3
+  - startTimeSeconds: 120
+    enemiesPerBurst: 3
+    interval: 6
+  - startTimeSeconds: 180
+    enemiesPerBurst: 4
+    interval: 10
